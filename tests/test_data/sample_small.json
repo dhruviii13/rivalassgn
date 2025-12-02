@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "2025-01-15T10:00:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 120,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 300,
+    "response_size_bytes": 1500
+  },
+  {
+    "timestamp": "2025-01-15T10:00:15Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 98,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 320,
+    "response_size_bytes": 1600
+  },
+  {
+    "timestamp": "2025-01-15T10:01:00Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1100,
+    "status_code": 500,
+    "user_id": "user_002",
+    "request_size_bytes": 1024,
+    "response_size_bytes": 256
+  },
+  {
+    "timestamp": "2025-01-15T10:01:20Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 780,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 1024,
+    "response_size_bytes": 256
+  },
+  {
+    "timestamp": "2025-01-15T10:02:10Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 520,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 400,
+    "response_size_bytes": 2000
+  },
+  {
+    "timestamp": "2025-01-15T10:02:40Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 450,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 420,
+    "response_size_bytes": 2100
+  },
+  {
+    "timestamp": "2025-01-15T10:03:00Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2250,
+    "status_code": 200,
+    "user_id": "user_004",
+    "request_size_bytes": 500,
+    "response_size_bytes": 5000
+  },
+  {
+    "timestamp": "2025-01-15T10:03:45Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1950,
+    "status_code": 200,
+    "user_id": "user_004",
+    "request_size_bytes": 520,
+    "response_size_bytes": 5100
+  },
+  {
+    "timestamp": "2025-01-15T10:04:30Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 280,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 340,
+    "response_size_bytes": 1700
+  },
+  {
+    "timestamp": "2025-01-15T10:04:45Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 140,
+    "status_code": 500,
+    "user_id": "user_001",
+    "request_size_bytes": 300,
+    "response_size_bytes": 1500
+  }
+]

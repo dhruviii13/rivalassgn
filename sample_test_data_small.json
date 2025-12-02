@@ -1,0 +1,152 @@
+[
+  {
+    "timestamp": "2025-01-15T10:00:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 120,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1024
+  },
+  {
+    "timestamp": "2025-01-15T10:01:30Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 145,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1024
+  },
+  {
+    "timestamp": "2025-01-15T10:02:15Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 850,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2048,
+    "response_size_bytes": 512
+  },
+  {
+    "timestamp": "2025-01-15T10:03:45Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2100,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 512,
+    "response_size_bytes": 15360
+  },
+  {
+    "timestamp": "2025-01-15T10:04:20Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 920,
+    "status_code": 500,
+    "user_id": "user_002",
+    "request_size_bytes": 2048,
+    "response_size_bytes": 256
+  },
+  {
+    "timestamp": "2025-01-15T10:05:10Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 98,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1024
+  },
+  {
+    "timestamp": "2025-01-15T10:06:30Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 450,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 1024,
+    "response_size_bytes": 8192
+  },
+  {
+    "timestamp": "2025-01-15T10:07:15Z",
+    "endpoint": "/api/users",
+    "method": "POST",
+    "response_time_ms": 280,
+    "status_code": 201,
+    "user_id": "user_004",
+    "request_size_bytes": 512,
+    "response_size_bytes": 1024
+  },
+  {
+    "timestamp": "2025-01-15T10:08:00Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 1100,
+    "status_code": 500,
+    "user_id": "user_002",
+    "request_size_bytes": 2048,
+    "response_size_bytes": 256
+  },
+  {
+    "timestamp": "2025-01-15T10:09:45Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 1950,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 512,
+    "response_size_bytes": 14336
+  },
+  {
+    "timestamp": "2025-01-15T10:10:20Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 110,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 256,
+    "response_size_bytes": 1024
+  },
+  {
+    "timestamp": "2025-01-15T10:11:30Z",
+    "endpoint": "/api/search",
+    "method": "GET",
+    "response_time_ms": 520,
+    "status_code": 200,
+    "user_id": "user_003",
+    "request_size_bytes": 1024,
+    "response_size_bytes": 9216
+  },
+  {
+    "timestamp": "2025-01-15T10:12:00Z",
+    "endpoint": "/api/users",
+    "method": "GET",
+    "response_time_ms": 135,
+    "status_code": 404,
+    "user_id": "user_004",
+    "request_size_bytes": 256,
+    "response_size_bytes": 128
+  },
+  {
+    "timestamp": "2025-01-15T10:13:15Z",
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "response_time_ms": 780,
+    "status_code": 200,
+    "user_id": "user_001",
+    "request_size_bytes": 2048,
+    "response_size_bytes": 512
+  },
+  {
+    "timestamp": "2025-01-15T10:14:45Z",
+    "endpoint": "/api/reports",
+    "method": "GET",
+    "response_time_ms": 2250,
+    "status_code": 200,
+    "user_id": "user_002",
+    "request_size_bytes": 512,
+    "response_size_bytes": 16384
+  }
+]

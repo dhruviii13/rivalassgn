@@ -1,0 +1,35 @@
+[
+  {"timestamp":"2025-01-15T10:00:00Z","endpoint":"/api/users","method":"GET","response_time_ms":120,"status_code":200,"user_id":"u1","request_size_bytes":350,"response_size_bytes":1500},
+  {"timestamp":"2025-01-15T10:00:05Z","endpoint":"/api/users","method":"GET","response_time_ms":130,"status_code":200,"user_id":"u1","request_size_bytes":360,"response_size_bytes":1550},
+  {"timestamp":"2025-01-15T10:00:10Z","endpoint":"/api/users","method":"GET","response_time_ms":98,"status_code":200,"user_id":"u2","request_size_bytes":320,"response_size_bytes":1600},
+  {"timestamp":"2025-01-15T10:00:15Z","endpoint":"/api/users","method":"GET","response_time_ms":150,"status_code":500,"user_id":"u3","request_size_bytes":340,"response_size_bytes":1700},
+
+  {"timestamp":"2025-01-15T10:01:00Z","endpoint":"/api/search","method":"GET","response_time_ms":520,"status_code":200,"user_id":"u4","request_size_bytes":400,"response_size_bytes":2000},
+  {"timestamp":"2025-01-15T10:01:10Z","endpoint":"/api/search","method":"GET","response_time_ms":480,"status_code":200,"user_id":"u4","request_size_bytes":410,"response_size_bytes":2050},
+  {"timestamp":"2025-01-15T10:01:20Z","endpoint":"/api/search","method":"GET","response_time_ms":450,"status_code":200,"user_id":"u5","request_size_bytes":420,"response_size_bytes":2100},
+  {"timestamp":"2025-01-15T10:01:25Z","endpoint":"/api/search","method":"GET","response_time_ms":490,"status_code":200,"user_id":"u6","request_size_bytes":415,"response_size_bytes":2080},
+
+  {"timestamp":"2025-01-15T10:02:00Z","endpoint":"/api/payments","method":"POST","response_time_ms":1100,"status_code":500,"user_id":"u7","request_size_bytes":1024,"response_size_bytes":256},
+  {"timestamp":"2025-01-15T10:02:20Z","endpoint":"/api/payments","method":"POST","response_time_ms":780,"status_code":200,"user_id":"u7","request_size_bytes":1030,"response_size_bytes":300},
+  {"timestamp":"2025-01-15T10:02:40Z","endpoint":"/api/payments","method":"POST","response_time_ms":950,"status_code":500,"user_id":"u8","request_size_bytes":1024,"response_size_bytes":256},
+  {"timestamp":"2025-01-15T10:02:55Z","endpoint":"/api/payments","method":"POST","response_time_ms":840,"status_code":200,"user_id":"u8","request_size_bytes":1024,"response_size_bytes":256},
+
+  {"timestamp":"2025-01-15T10:03:00Z","endpoint":"/api/reports","method":"GET","response_time_ms":2250,"status_code":200,"user_id":"u9","request_size_bytes":500,"response_size_bytes":5000},
+  {"timestamp":"2025-01-15T10:03:45Z","endpoint":"/api/reports","method":"GET","response_time_ms":1950,"status_code":200,"user_id":"u9","request_size_bytes":520,"response_size_bytes":5100},
+  {"timestamp":"2025-01-15T10:04:30Z","endpoint":"/api/reports","method":"GET","response_time_ms":2050,"status_code":200,"user_id":"u10","request_size_bytes":530,"response_size_bytes":5200},
+
+  {"timestamp":"2025-01-15T10:05:00Z","endpoint":"/api/users","method":"GET","response_time_ms":140,"status_code":200,"user_id":"u2","request_size_bytes":300,"response_size_bytes":1500},
+  {"timestamp":"2025-01-15T10:05:10Z","endpoint":"/api/users","method":"GET","response_time_ms":160,"status_code":200,"user_id":"u3","request_size_bytes":310,"response_size_bytes":1520},
+  {"timestamp":"2025-01-15T10:05:20Z","endpoint":"/api/users","method":"GET","response_time_ms":180,"status_code":200,"user_id":"u1","request_size_bytes":320,"response_size_bytes":1540},
+  {"timestamp":"2025-01-15T10:05:30Z","endpoint":"/api/users","method":"GET","response_time_ms":200,"status_code":200,"user_id":"u5","request_size_bytes":330,"response_size_bytes":1560},
+
+  {"timestamp":"2025-01-15T10:06:00Z","endpoint":"/api/search","method":"GET","response_time_ms":510,"status_code":200,"user_id":"u4","request_size_bytes":400,"response_size_bytes":2000},
+  {"timestamp":"2025-01-15T10:06:10Z","endpoint":"/api/search","method":"GET","response_time_ms":530,"status_code":200,"user_id":"u6","request_size_bytes":405,"response_size_bytes":2020},
+  {"timestamp":"2025-01-15T10:06:20Z","endpoint":"/api/search","method":"GET","response_time_ms":470,"status_code":200,"user_id":"u5","request_size_bytes":410,"response_size_bytes":2040},
+  {"timestamp":"2025-01-15T10:06:30Z","endpoint":"/api/search","method":"GET","response_time_ms":495,"status_code":200,"user_id":"u7","request_size_bytes":415,"response_size_bytes":2060},
+
+  {"timestamp":"2025-01-15T10:07:00Z","endpoint":"/api/payments","method":"POST","response_time_ms":800,"status_code":200,"user_id":"u8","request_size_bytes":1024,"response_size_bytes":260},
+  {"timestamp":"2025-01-15T10:07:15Z","endpoint":"/api/payments","method":"POST","response_time_ms":1050,"status_code":500,"user_id":"u9","request_size_bytes":1024,"response_size_bytes":256},
+  {"timestamp":"2025-01-15T10:07:30Z","endpoint":"/api/payments","method":"POST","response_time_ms":820,"status_code":200,"user_id":"u10","request_size_bytes":1024,"response_size_bytes":256},
+  {"timestamp":"2025-01-15T10:07:45Z","endpoint":"/api/payments","method":"POST","response_time_ms":860,"status_code":200,"user_id":"u1","request_size_bytes":1024,"response_size_bytes":256}
+]
